@@ -59,3 +59,13 @@ metabase/metabase
 #一个用于自动安装和续期Let's Encrypt SSL证书的开源Shell脚本工具。
 neilpang/acme.sh
 
+#一个开源的内容管理系统（CMS），主要用于创建和管理网站内容，它以灵活性和易用性著称，支持多种插件和主题，适用于个人博客、企业网站、在线商店等多种用途。
+wordpress
+
+#一个开源的下一代堡垒机系统，支持多种协议（如 RDP、SSH、VNC 等），并提供实时监控和事后审计功能。
+dushixiang/guacd
+dushixiang/next-terminal-premium
+
+#基于NGINX的反向代理管理面板，它允许用户通过一个图形界面轻松配置和管理多个 NGINX 代理服务器。
+jc21/nginx-proxy-manager
+
