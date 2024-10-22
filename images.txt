@@ -1,6 +1,25 @@
+#nginx 镜像用于运行Nginx Web 服务器。
 nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+
+#MySQL是一种广泛使用的开源关系型数据库管理系统
+mysql
+
+#Redis是一个基于键值对存储的NoSQL数据库，它提供了高性能、可扩展性和持久化数据存储功能
+redis
+
+#PostgreSQL 是一个开源的关系数据库管理系统
+postgres
+
+#Grafana是一个开源的可视化工具，可以将各种数据源（如Prometheus、InfluxDB等）绑定到图表上
+grafana/grafana
+
+#Bitnami Kafka 是一个基于 Apache Kafka 的开源消息队列解决方案
+bitnami/kafka
+
+#Prometheus 的官方 Docker 镜像，这个镜像提供了一个完整的 Prometheus 服务，可以用于收集和存储指标数据、创建报表和 alerting。该镜像支持多种数据源，如 Node exported metrics、PostgreSQL 等。
+prom/prometheus
+
+#Portainer是一个开源的容器管理平台，提供了图形化的界面来管理和监控 Docker 容器
+portainer/portainer-ce
+portainer/portainer-ee
+
