@@ -23,3 +23,15 @@ prom/prometheus
 portainer/portainer-ce
 portainer/portainer-ee
 
+#基于 Python 的智能家居自动化系统，可以控制和整合各种智能设备，例如照明、空调、音频设备等
+homeassistant/home-assistant
+
+#moviePilot是一个基于Python和Flask构建的电影推荐系统镜像
+jxxghp/moviepilot
+
+#qbittorrent镜像由LinuxServer项目维护，提供了一个基于QBittorrent的BitTorrent客户端，支持多种协议和功能，包括磁力链接、DHT等。
+linuxserver/qbittorrent
+
+#青龙面板是一个基于OpenFaaS的函数计算平台的容器镜像。
+whyour/qinglong
+
