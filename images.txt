@@ -35,3 +35,27 @@ linuxserver/qbittorrent
 #青龙面板是一个基于OpenFaaS的函数计算平台的容器镜像。
 whyour/qinglong
 
+#Transmission是被用户誉为下载神器的工具，支持支持BT种子和磁力链接下载
+linuxserver/transmission
+
+#一款媒体服务器软件，可以将电脑上的音乐、视频和图片文件转换为流媒体，供家庭网络内的设备播放
+emby/embyserver
+
+#自动更新 Docker 镜像与容器
+containrrr/watchtower
+
+#搭建私人密码库 VaultWarden，一个密码管理的神器
+vaultwarden/server
+
+#AdGuard Home – 自建 DNS 防污染、去广告、远离广告骚扰。
+adguard/adguardhome
+
+#n8n 是一个开源且功能强大的工作流自动化工具，它允许用户通过拖拽的方式设计和执行自动化工作流程。
+n8nio/n8n
+
+#Metabase 是一个开源的数据可视化和分析工具，它允许用户通过一个简单的界面来查询、可视化和共享他们的数据。
+metabase/metabase
+
+#一个用于自动安装和续期Let's Encrypt SSL证书的开源Shell脚本工具。
+neilpang/acme.sh
+
