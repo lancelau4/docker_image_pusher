@@ -66,5 +66,5 @@ wordpress
 dushixiang/guacd
 dushixiang/next-terminal-premium
 
-#基于NGINX的反向代理管理面板，它允许用户通过一个图形界面轻松配置和管理多个 NGINX 代理服务器。
+#基于NGINX的反向代理管理面板，它允许用户通过一个图形界面轻松配置和管理多个NGINX代理服务器。
 jc21/nginx-proxy-manager
